@@ -2,7 +2,7 @@
 , libsecret, libGL, libpulseaudio, glib, wrapQtAppsHook, mkDerivation }:
 
 let
-  version = "1.2.3-1";
+  version = "1.2.6-1";
 
   description = ''
     An application that runs on your computer in the background and seamlessly encrypts
